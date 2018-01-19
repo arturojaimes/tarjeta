@@ -3,7 +3,7 @@
  <script type="text/javascript">
   function onVisaCheckoutReady(){
   V.init( {
-  apikey: "...",
+  apikey: "SFKF9VFWNLTL5DA2AGSB2158-SLELNphTztg8XE2HknfSEtK4",
   paymentRequest:{
     currencyCode: "USD",
     subtotal: "11.00"
